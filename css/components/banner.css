@@ -1,0 +1,43 @@
+.banner {
+  background-image: linear-gradient(rgba(169, 188, 208, .4),  rgba(169, 188, 208, 1)), url('../../images/background.jpg');
+/* background: rgba(169, 188, 208, 1.0); */
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.banner-btn-container{
+
+
+}
+
+.banner h1 {
+  color: white;
+  font-size: 48px;
+  text-shadow: 1px 1px 3px black;
+  font-weight: bolder;
+}
+
+.banner p {
+  width: ;
+  color: rgb(230, 232, 236);
+  text-shadow: 1px 1px 2px black;
+/* box-shadow: 1px 1px 8px rgba(0,0,0,.3); */
+/* border-radius: 10px; */
+  opacity: 1;
+/*   font-weight: bold; */
+  font-family: 'Abel', sans-serif;
+  font-size: 36px;
+}
+
+#skill-1 {
+  text-indent: 10%;
+}
+
+#skill-2 {
+  text-indent: 20%;
+}
+
+#skill-3 {
+  text-indent: 30%;
+}

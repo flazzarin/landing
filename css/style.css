@@ -1,0 +1,55 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Abel|Baloo+Chettan+2|Ubuntu&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700'); */
+
+/*
+font-family: 'Baloo Chettan 2', cursive;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Abel', sans-serif;
+*/
+/* import components css */
+
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('components/buttons.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+
+
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  background: rgb(230, 232, 236);
+
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Baloo Chettan 2', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: large;
+  font-family: 'Abel', sans-serif;
+
+}
+
+.text-center {
+  text-align: center;
+  font-style: italic;
+  padding: 40px;
+  }
+
+/* Custom design below! */
+
+
+
+
+
+
+
